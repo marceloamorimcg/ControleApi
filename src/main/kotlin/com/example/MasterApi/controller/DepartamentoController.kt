@@ -1,6 +1,7 @@
 package com.example.MasterApi.controller
 
 import com.example.MasterApi.model.Departamento
+import com.example.MasterApi.service.DepartamentoService
 import org.springframework.web.bind.annotation.*
 
 @RestController

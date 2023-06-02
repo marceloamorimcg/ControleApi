@@ -1,6 +1,7 @@
 package com.example.MasterApi.service
 
 import com.example.MasterApi.model.Departamento
+import com.example.MasterApi.respository.DepartamentoRespository
 import org.springframework.stereotype.Service
 import java.util.*
 

@@ -1,6 +1,7 @@
 package com.example.MasterApi.service
 
 import com.example.MasterApi.model.Funcionario
+import com.example.MasterApi.respository.FuncionarioRepository
 import org.springframework.stereotype.Service
 
 @Service
